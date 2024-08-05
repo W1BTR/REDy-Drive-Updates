@@ -1,4 +1,3 @@
 OK
 Initial Release (1.0) Lite
-wikipedia_en_all_nopic=magnet:?&xt=urn:btih:3ecb75a2108152b55c3c1b146d714586381c8afe&xt=urn:md5:915b8e6cda207100cfc53be5a0ff1183&xl=57175319084&dn=wikipedia_en_all_nopic_2024-06.zim&as=http%%3A%2F%2Fdownload.kiwix.org%2Fzim%2Fwikipedia%2Fwikipedia_en_all_nopic_2024-06.zim&tr=http%3A%2F%2Ftracker.openzim.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openzim.org%3A6969%2Fannounce%0A&ws=http%3A%2F%2Fdownload.kiwix.org%2Fzim%2Fwikipedia%2Fwikipedia_en_all_nopic_2024-06.zim&xs=http%3A%2F%2Fdownload.kiwix.org%2Fzim%2Fwikipedia%2Fwikipedia_en_all_nopic_2024-06.zim.torrent
-
+wikipedia_en_all_nopic=w1btr.com
