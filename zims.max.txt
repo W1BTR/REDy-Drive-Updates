@@ -1,0 +1,3 @@
+OK
+Initial Release (1.0)
+wikipedia_en_all_maxi=magnet:?&xt=urn:btih:eedb42f768827671b05cef7e22abebf481eb7813&xt=urn:md5:01f14333c83e475d917fb1d5ecff4fb8&xl=109885670576&dn=wikipedia_en_all_maxi_2024-01.zim&as=http%3A%2F%2Fdownload.kiwix.org%2Fzim%2Fwikipedia%2Fwikipedia_en_all_maxi_2024-01.zim&tr=http%3A%2F%2Ftracker.openzim.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openzim.org%3A6969%2Fannounce%0A&ws=http%3A%2F%2Fdownload.kiwix.org%2Fzim%2Fwikipedia%2Fwikipedia_en_all_maxi_2024-01.zim&xs=http%3A%2F%2Fdownload.kiwix.org%2Fzim%2Fwikipedia%2Fwikipedia_en_all_maxi_2024-01.zim.torrent
